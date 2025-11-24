@@ -10,7 +10,7 @@ It contains the dataset generated during the **systematic literature review** of
 
 ## 📂 Repository Contents
 
-- **`literature_review_analysis.xlsx`**  
+- **`differential-replication-review/data/Literature_Review_DR.xlsx`**  
   A structured spreadsheet documenting the entire review and coding process.  
   It includes the following fields for each study:
 
