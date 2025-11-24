@@ -1,0 +1,131 @@
+Year,Keyword,Count
+1996,neural network,1
+1996,trepan algorithm,1
+1996,decision tree,1
+2000,approximation,1
+2000,bagging,1
+2000,boosting,1
+2000,ensemble classifiers,1
+2000,neural network,1
+2000,model compression,1
+2005,decision rule,1
+2005,voronoi diagram,1
+2005,decision boundary,1
+2005,proximity graph,1
+2005,gabriel graph,1
+2005,knowledge acquisition,1
+2005,"minimum 
+message length",1
+2005,adversarial classification,1
+2005,linear classifiers,1
+2005,spam,1
+2007,ensembles,1
+2007,decision trees,1
+2007,comprehensibility,1
+2008,bootstrap techniques,1
+2008,compliance monitoring,1
+2008,conservation reserve program,1
+2008,data editing,1
+2008,mapping,1
+2008,one class classification,1
+2008,support vector machines,1
+2015,neural network,3
+2015,knowledge distillation,2
+2015,model compression,1
+2015,student teacher framework,1
+2015,intermediate representations,1
+2015,ensemble of models,1
+2015,mnist distillation,1
+2015,feed forward,1
+2015,decision tree,1
+2015,extraction,1
+2016,deep learning algorithms,1
+2016,adversarial samples,1
+2016,neural network,1
+2016,adversarial attacks,1
+2016,security,1
+2016,deep learning,1
+2016,model compression,1
+2016,teacherstudent learning,1
+2016,regularization,1
+2016,noise,1
+2017,neural network,2
+2017,knowledge projection,1
+2017,transfer learning,1
+2017,network distillation,1
+2017,computer vision,1
+2017,deep learning,1
+2017,supervised learning,1
+2017,knowledge distillation,1
+2017,model compression,1
+2017,student teacher network,1
+2018,neural network,2
+2018,knowledge distillation,2
+2018,automated dnn compression,1
+2018,usage driven,1
+2018,model compression,1
+2018,efficient neural architecture search,1
+2018,machine learning,1
+2018,computation and language,1
+2018,computer vision and pattern recognition,1
+2018,neural and evolutionary computing,1
+2019,knowledge distillation,4
+2019,computer vision,2
+2019,pattern recognition,2
+2019,machine learning,2
+2019,quantization,1
+2019,route constrained optimization,1
+2019,computer science,1
+2019,zero shot knowledge distillation,1
+2019,segmentation,1
+2019,scene analysis,1
+2020,neural network,7
+2020,knowledge distillation,5
+2020,classification,2
+2020,cross task knowledge,1
+2020,class position,1
+2020,classification confidence,1
+2020,label space,1
+2020,training data,1
+2020,label smoothing regularization,1
+2020,teacher free knowledge distillation,1
+2021,knowledge distillation,4
+2021,heterogeneous federated learning,1
+2021,model pruning,1
+2021,model quantization,1
+2021,bias variance tradeoff,1
+2021,soft labels,1
+2021,teacher student model,1
+2021,deep neural network algorithms,1
+2021,learning on the edge,1
+2021,model compression,1
+2022,knowledge distillation,5
+2022,model compression,2
+2022,neural network,2
+2022,network pruning,1
+2022,cross architecture,1
+2022,neural architecture search,1
+2022,lexicon guided self training,1
+2022,few shot text classification,1
+2022,noise,1
+2022,deep learning,1
+2023,knowledge distillation,6
+2023,federated learning,2
+2023,model compression,2
+2023,distillation without training,1
+2023,label noise learning,1
+2023,label propagation,1
+2023,label refinery,1
+2023,dataset distillation,1
+2023,synthetic training datasets,1
+2023,gradient matching,1
+2024,model pruning,2
+2024,redundancy,1
+2024,point cloud compression,1
+2024,image coding,1
+2024,videos,1
+2024,task analysis,1
+2024,feature extraction,1
+2024,tensors,1
+2024,model compression,1
+2024,knowledge distillation,1
